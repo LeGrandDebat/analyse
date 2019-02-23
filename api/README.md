@@ -7,4 +7,4 @@ Pour installer Eve, lancer la commande:
 
 Plus de détails pour commencer à jouer avec Eve sont disponibles en suivant le lien: http://docs.python-eve.org/en/latest/.
 
-Le fichier settings.py décrit la configuration de notre api.
+Le fichier settings.py décrit la configuration  initiale de l'api.
