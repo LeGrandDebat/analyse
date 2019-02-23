@@ -1,2 +1,2 @@
 # Analyse
-Analyse des données du grand débat
+Le but de ce repo github est de fournir des moyens simples à quiconque souhaitant analyser les réponses au grand débat.
