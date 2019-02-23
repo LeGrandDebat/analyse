@@ -8,4 +8,4 @@ TODO:
 * mettre en place un siteweb simple (html/css/js) pour forger des requêtes http (pour api rest), et visualiser les réponses.
 * permettre le défilement des réponses, l'aperçu d'une réponses.
 
-Si vous avez l'idée de requêtes potentiellement intéressante, contacter legranddebat@blion.eu .
+Si vous avez l'idée de requêtes potentiellement intéressantes, contacter legranddebat@blion.eu .
