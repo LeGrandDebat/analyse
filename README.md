@@ -1,5 +1,6 @@
 # Analyse
-Le but de ce repo github est de fournir des moyens simples à quiconque souhaitant analyser les réponses au grand débat.
+Le but de ce repo github est de fournir des moyens simples à quiconque souhaitant analyser les réponses au grand débat. Le compte github n'est associé ni aux sous traitant, ni au site legranddebat.fr, mais à l'initiative d'un simple citoyen amateur.
+
 L'application supporte les requêtes telles que: 
 * donner toutes les réponses incluant le mot X.
 * donner toutes les réponses ayant une certaine longueur.
